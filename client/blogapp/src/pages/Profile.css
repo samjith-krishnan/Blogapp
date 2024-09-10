@@ -1,0 +1,62 @@
+.user-detail{
+    height: 600px;
+    border-radius: 10px;
+    overflow: scroll;
+    scrollbar-color: transparent transparent;
+   
+}
+
+.profilee{
+    border: 1px red solid;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+.dp{
+    background-color: white;
+    width: 100%;
+    border-radius: 10px;
+    
+}
+.post{
+    height: 100px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.post-inner{
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+}
+
+.formclass input{
+    width: 300px;
+    border-bottom: 1px solid black;
+}
+.menu li{
+    border: transparent;
+}
+
+.prof{
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+    background-size: cover;
+}
+
+.edit-icon{
+    margin-top: -10px;
+    margin-left: 70px;
+}
+.butn-add{
+    border-radius: 25px;
+    background-color: black;
+    border: transparent;
+}
+.add-icon{
+    margin-top: -20px;
+    position: sticky;  
+    margin-left: 50%;
+}
+

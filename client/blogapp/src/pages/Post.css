@@ -1,0 +1,21 @@
+.image-div{
+
+    height: 500px;
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+
+.author-detail{
+    background-color: white;
+    border-radius: 15px;
+}
+
+.blogg{
+    font-size: large;
+    font-family: serif;
+    font-style: italic;
+}

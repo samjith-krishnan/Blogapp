@@ -1,0 +1,47 @@
+.comment{
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    overflow: scroll;
+    scrollbar-color: transparent transparent;
+
+
+    
+}
+
+.inner{
+    background-color: white;
+    height: 100px;
+    max-width: 10;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.footer{
+    height: 100px;
+    margin-top:-20px;
+    width: 100%;
+    position: sticky;
+    display: flex;
+    justify-content: center;
+}
+form {
+    all: unset;
+}
+form * {
+    all: revert;
+}
+form input{
+    width: 600px;
+    height: 30px;
+    border-radius: 10px;
+    border: transparent;
+    margin-top: 30px;
+    
+}
+form button{
+    border: transparent;
+    padding: 10px;
+    
+}
